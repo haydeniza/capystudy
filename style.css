@@ -1,0 +1,42 @@
+
+body {
+    background-color: #F1E4CF; 
+}
+
+.center-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center-image {
+    display: block;
+    margin: 0 auto; 
+}
+.center-form {
+    width: 300px; 
+    margin: 20px auto; 
+ 
+}
+
+.center-title {
+    color: #BB6232;
+    text-align: center; 
+}
+
+.btn-wrapper {
+    text-align: center;
+}
+.btn-enviar {
+    background-color: #BB6232;
+    color: #fff;
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+
+.btn-enviar:hover {
+    background-color: #e6ac84; 
+}
