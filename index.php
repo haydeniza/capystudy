@@ -23,22 +23,22 @@
             <tr>
             <div class="form-floating mb-3">
                 <input type="text" class="form-control" id="floatingInput" placeholder="Nome" required >
-                <label for="floatingInput">Nome</label>
+                <label for="floatingInput" style="color: #BB6232;">Nome</label>
                 </div>
 
             <div class="form-floating mb-3">
                 <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required>
-                <label for="floatingInput">Email </label>
+                <label for="floatingInput" style="color: #BB6232;">Email </label>
                 </div>
 
                 <div class="form-floating mb-3" >
                     <input type="password" class="form-control" id="floatingPassword" placeholder="Password" required>
-                    <label for="floatingPassword">Senha</label>
+                    <label for="floatingPassword" style="color: #BB6232;">Senha</label>
                 </div>
 
                 <div class="form-floating mb-3">
                     <input type="date" class="form-control" id="floatingInput" >
-                    <label for="floatingInput">Data</label>
+                    <label for="floatingInput" style="color: #BB6232;">Data</label>
            <br><br>
             <div class="btn-wrapper">
                 <button type="submit"  name= "enviar" class="btn-enviar">Enviar</button>
